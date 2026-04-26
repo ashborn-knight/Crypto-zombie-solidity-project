@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "zombie",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "name",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "dna",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ZombieFactory.sol": "ZombieFactory"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ZombieFactory.sol": {
+			"keccak256": "0xffc28f832130d08792cf8e2854db9c3c11e23e76d592d3603453bc256b201a39",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://64a66850fe819e4c72e3d01179290f249af8131d38c678712c0d290c87908a22",
+				"dweb:/ipfs/Qmad644p19bbWLvUzxt9nxzDwSvb58Vk96M3c1rddWWYxn"
+			]
+		}
+	},
+	"version": 1
+}
