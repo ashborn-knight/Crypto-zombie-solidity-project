@@ -58,11 +58,11 @@
 	},
 	"sources": {
 		"ZombieFactory.sol": {
-			"keccak256": "0xffc28f832130d08792cf8e2854db9c3c11e23e76d592d3603453bc256b201a39",
+			"keccak256": "0xe239e0a4807f5deeda206a2305c34de366eb1d58b433371a0be20017c37d676b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://64a66850fe819e4c72e3d01179290f249af8131d38c678712c0d290c87908a22",
-				"dweb:/ipfs/Qmad644p19bbWLvUzxt9nxzDwSvb58Vk96M3c1rddWWYxn"
+				"bzz-raw://640d7056db88d6034897c45638fdd550aeefbe7d6500fbfd345032234e615b0c",
+				"dweb:/ipfs/QmdZgc99ZjZmXrfBW8WF97tGq4HvEAwwKJdFbfo1z8WMky"
 			]
 		}
 	},
